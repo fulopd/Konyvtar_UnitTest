@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konyvtar", "Konyvtar\Konyvtar.csproj", "{8313BDB3-6C5D-48DB-B14D-48A467B0D366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KonyvtarTests", "KonyvtarTests\KonyvtarTests.csproj", "{1B61FD45-E67E-4AA1-9EC9-5A165E19F222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8313BDB3-6C5D-48DB-B14D-48A467B0D366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8313BDB3-6C5D-48DB-B14D-48A467B0D366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8313BDB3-6C5D-48DB-B14D-48A467B0D366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8313BDB3-6C5D-48DB-B14D-48A467B0D366}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B61FD45-E67E-4AA1-9EC9-5A165E19F222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B61FD45-E67E-4AA1-9EC9-5A165E19F222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B61FD45-E67E-4AA1-9EC9-5A165E19F222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B61FD45-E67E-4AA1-9EC9-5A165E19F222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11526317-68C4-4E39-9E3E-D713E13DBD3A}
+	EndGlobalSection
+EndGlobal
